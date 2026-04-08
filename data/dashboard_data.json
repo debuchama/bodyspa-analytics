@@ -59,19 +59,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/2832a9336460ea6689481948b2532edc6e2e0da2-965x1514.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "ito",
-   "total_days": 135,
+   "total_days": 134,
    "avg_hours": 6.9,
    "weekday_dist": [
     20,
     16,
     22,
     21,
-    22,
+    21,
     16,
     18
    ],
    "monthly": {
-    "2025-10": 15,
+    "2025-10": 14,
     "2025-11": 21,
     "2025-12": 22,
     "2026-01": 24,
@@ -91,7 +91,7 @@
     "2026-04-12",
     "2026-04-15"
    ],
-   "freq_per_week": 49.7,
+   "freq_per_week": 49.4,
    "stores_worked": [
     "西葛西店"
    ]
@@ -107,19 +107,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 124,
+   "total_days": 122,
    "avg_hours": 8.1,
    "weekday_dist": [
     19,
     22,
     20,
     13,
-    20,
+    18,
     19,
     11
    ],
    "monthly": {
-    "2025-10": 14,
+    "2025-10": 12,
     "2025-11": 20,
     "2025-12": 21,
     "2026-01": 20,
@@ -139,7 +139,7 @@
     "2026-04-13",
     "2026-04-14"
    ],
-   "freq_per_week": 72.3,
+   "freq_per_week": 71.2,
    "stores_worked": [
     "新橋店"
    ]
@@ -161,22 +161,21 @@
     17,
     16,
     15,
-    14,
-    13,
+    15,
+    12,
     19,
     16
    ],
    "monthly": {
-    "2025-10": 11,
+    "2025-10": 10,
     "2025-11": 17,
     "2025-12": 22,
     "2026-01": 21,
     "2026-02": 19,
     "2026-03": 17,
-    "2026-04": 3
+    "2026-04": 4
    },
    "recent_dates": [
-    "2026-03-17",
     "2026-03-18",
     "2026-03-21",
     "2026-03-22",
@@ -185,9 +184,10 @@
     "2026-03-31",
     "2026-04-02",
     "2026-04-04",
-    "2026-04-05"
+    "2026-04-05",
+    "2026-04-09"
    ],
-   "freq_per_week": 40.5,
+   "freq_per_week": 35.0,
    "stores_worked": [
     "千葉本店"
    ]
@@ -203,19 +203,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d4416fb62e629176b54c4f5985f4c0e8f8e18112-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "kimura",
-   "total_days": 96,
+   "total_days": 95,
    "avg_hours": 5.3,
    "weekday_dist": [
     19,
     25,
     14,
     11,
-    25,
+    24,
     0,
     2
    ],
    "monthly": {
-    "2025-10": 12,
+    "2025-10": 11,
     "2025-11": 15,
     "2025-12": 15,
     "2026-01": 15,
@@ -235,7 +235,7 @@
     "2026-04-13",
     "2026-04-14"
    ],
-   "freq_per_week": 44.8,
+   "freq_per_week": 44.3,
    "stores_worked": [
     "新橋店"
    ]
@@ -251,19 +251,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3c0591469d171ed9d3025b19b0bbba6cdb14e659-384x512.webp?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "toda",
-   "total_days": 75,
+   "total_days": 74,
    "avg_hours": 6.3,
    "weekday_dist": [
     16,
     23,
     8,
     2,
-    22,
+    21,
     3,
     1
    ],
    "monthly": {
-    "2025-10": 9,
+    "2025-10": 8,
     "2025-11": 12,
     "2025-12": 11,
     "2026-01": 12,
@@ -283,7 +283,7 @@
     "2026-04-10",
     "2026-04-14"
    ],
-   "freq_per_week": 25.0,
+   "freq_per_week": 24.7,
    "stores_worked": [
     "千葉本店"
    ]
@@ -386,54 +386,6 @@
    ]
   },
   {
-   "id": "6a5f5f1a-e30b-48bd-8676-1d6b8ad8bd69",
-   "name": "大島 -Oshima-",
-   "store": "新橋店",
-   "new": null,
-   "english": null,
-   "enroll_date": null,
-   "description": "【早番スペシャルセラピスト】\n癒しを追求し、心地の良さを知り尽くした大人気セラピスト\nルックスも抜群で、お話も楽しく盛り上がること間違いなし。\nルックスの美しさも然り、丁寧な気遣いとその小さな身体から繰り出す数々の魅惑の手技…\n抜群のホスピタリティで男心をくすぐります。\n磨きのかかった精巧なテクニックで\n身も心も活力を与えてくれる最高のセラピストの一人です。",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/ccda4df4db8f054af5d4c2e19f4950d81d5a830f-1108x1478.jpg?w=400&h=600&fit=crop",
-   "line_url": "https://page.line.me/531aukih",
-   "slug": "oshima",
-   "total_days": 70,
-   "avg_hours": 6.9,
-   "weekday_dist": [
-    20,
-    5,
-    15,
-    7,
-    20,
-    2,
-    1
-   ],
-   "monthly": {
-    "2025-10": 11,
-    "2025-11": 9,
-    "2025-12": 12,
-    "2026-01": 13,
-    "2026-02": 11,
-    "2026-03": 12,
-    "2026-04": 2
-   },
-   "recent_dates": [
-    "2026-03-11",
-    "2026-03-13",
-    "2026-03-16",
-    "2026-03-19",
-    "2026-03-23",
-    "2026-03-27",
-    "2026-03-30",
-    "2026-03-31",
-    "2026-04-10",
-    "2026-04-14"
-   ],
-   "freq_per_week": 14.4,
-   "stores_worked": [
-    "新橋店"
-   ]
-  },
-  {
    "id": "fe7f2d5f-910c-440a-8acc-5d20a1268206",
    "name": "吉高 -Yoshitaka-",
    "store": "千葉本店",
@@ -479,6 +431,54 @@
    "freq_per_week": 23.0,
    "stores_worked": [
     "千葉本店"
+   ]
+  },
+  {
+   "id": "6a5f5f1a-e30b-48bd-8676-1d6b8ad8bd69",
+   "name": "大島 -Oshima-",
+   "store": "新橋店",
+   "new": null,
+   "english": null,
+   "enroll_date": null,
+   "description": "【早番スペシャルセラピスト】\n癒しを追求し、心地の良さを知り尽くした大人気セラピスト\nルックスも抜群で、お話も楽しく盛り上がること間違いなし。\nルックスの美しさも然り、丁寧な気遣いとその小さな身体から繰り出す数々の魅惑の手技…\n抜群のホスピタリティで男心をくすぐります。\n磨きのかかった精巧なテクニックで\n身も心も活力を与えてくれる最高のセラピストの一人です。",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/ccda4df4db8f054af5d4c2e19f4950d81d5a830f-1108x1478.jpg?w=400&h=600&fit=crop",
+   "line_url": "https://page.line.me/531aukih",
+   "slug": "oshima",
+   "total_days": 68,
+   "avg_hours": 6.9,
+   "weekday_dist": [
+    20,
+    5,
+    15,
+    7,
+    18,
+    2,
+    1
+   ],
+   "monthly": {
+    "2025-10": 9,
+    "2025-11": 9,
+    "2025-12": 12,
+    "2026-01": 13,
+    "2026-02": 11,
+    "2026-03": 12,
+    "2026-04": 2
+   },
+   "recent_dates": [
+    "2026-03-11",
+    "2026-03-13",
+    "2026-03-16",
+    "2026-03-19",
+    "2026-03-23",
+    "2026-03-27",
+    "2026-03-30",
+    "2026-03-31",
+    "2026-04-10",
+    "2026-04-14"
+   ],
+   "freq_per_week": 14.0,
+   "stores_worked": [
+    "新橋店"
    ]
   },
   {
@@ -540,19 +540,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/7ff0f341992608c1b47a7e80df3a6a970e6bd339-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/03Vzi8p",
    "slug": "kashiwagi",
-   "total_days": 66,
+   "total_days": 64,
    "avg_hours": 7.6,
    "weekday_dist": [
     10,
     9,
     5,
     15,
-    7,
+    5,
     16,
     4
    ],
    "monthly": {
-    "2025-10": 19,
+    "2025-10": 17,
     "2025-11": 6,
     "2026-01": 6,
     "2026-02": 10,
@@ -571,7 +571,7 @@
     "2026-04-10",
     "2026-04-11"
    ],
-   "freq_per_week": 30.8,
+   "freq_per_week": 29.9,
    "stores_worked": [
     "西葛西店",
     "新橋店"
@@ -847,8 +847,8 @@
    ],
    "freq_per_week": 3.5,
    "stores_worked": [
-    "西葛西店",
-    "千葉本店"
+    "千葉本店",
+    "西葛西店"
    ]
   },
   {
@@ -937,27 +937,26 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/00020d1e796acd904954af0e20a7e4758d994402-773x1105.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/VCVy7DI",
    "slug": "ookura",
-   "total_days": 3,
-   "avg_hours": 5.7,
+   "total_days": 2,
+   "avg_hours": 5.8,
    "weekday_dist": [
     1,
     0,
     0,
     1,
-    1,
+    0,
     0,
     0
    ],
    "monthly": {
-    "2025-10": 2,
+    "2025-10": 1,
     "2025-11": 1
    },
    "recent_dates": [
-    "2025-10-10",
     "2025-10-27",
     "2025-11-06"
    ],
-   "freq_per_week": 0.8,
+   "freq_per_week": 1.4,
    "stores_worked": [
     "千葉本店"
    ]
@@ -1094,13 +1093,13 @@
    }
   ]
  },
- "total_schedules": 3990,
+ "total_schedules": 3960,
  "date_range": {
-  "from": "2025-10-10",
+  "from": "2025-10-11",
   "to": "2026-04-15"
  },
- "generated_at": "2026-04-08T06:36:14.591392+09:00",
- "today": "2026-04-08",
+ "generated_at": "2026-04-09T06:35:30.851226+09:00",
+ "today": "2026-04-09",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
