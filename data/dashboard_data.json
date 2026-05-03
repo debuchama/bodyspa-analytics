@@ -107,11 +107,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 122,
+   "total_days": 121,
    "avg_hours": 8.1,
    "weekday_dist": [
     17,
-    22,
+    21,
     19,
     16,
     18,
@@ -119,7 +119,7 @@
     11
    ],
    "monthly": {
-    "2025-11": 18,
+    "2025-11": 17,
     "2025-12": 21,
     "2026-01": 20,
     "2026-02": 18,
@@ -139,7 +139,7 @@
     "2026-05-07",
     "2026-05-08"
    ],
-   "freq_per_week": 53.4,
+   "freq_per_week": 52.9,
    "stores_worked": [
     "新橋店"
    ]
@@ -155,10 +155,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5b528da5eb53d124a39d99cc082cb770bd39e935-1108x1478.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "momo",
-   "total_days": 116,
-   "avg_hours": 8.3,
+   "total_days": 117,
+   "avg_hours": 8.2,
    "weekday_dist": [
-    18,
+    19,
     16,
     16,
     14,
@@ -173,10 +173,9 @@
     "2026-02": 19,
     "2026-03": 17,
     "2026-04": 20,
-    "2026-05": 2
+    "2026-05": 3
    },
    "recent_dates": [
-    "2026-04-21",
     "2026-04-22",
     "2026-04-24",
     "2026-04-25",
@@ -185,9 +184,10 @@
     "2026-04-28",
     "2026-04-30",
     "2026-05-01",
-    "2026-05-02"
+    "2026-05-02",
+    "2026-05-04"
    ],
-   "freq_per_week": 73.8,
+   "freq_per_week": 68.2,
    "stores_worked": [
     "千葉本店"
    ]
@@ -203,11 +203,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d4416fb62e629176b54c4f5985f4c0e8f8e18112-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "kimura",
-   "total_days": 96,
+   "total_days": 95,
    "avg_hours": 5.4,
    "weekday_dist": [
     18,
-    25,
+    24,
     11,
     15,
     25,
@@ -215,7 +215,7 @@
     2
    ],
    "monthly": {
-    "2025-11": 15,
+    "2025-11": 14,
     "2025-12": 15,
     "2026-01": 15,
     "2026-02": 14,
@@ -235,7 +235,7 @@
     "2026-05-07",
     "2026-05-08"
    ],
-   "freq_per_week": 37.3,
+   "freq_per_week": 36.9,
    "stores_worked": [
     "新橋店"
    ]
@@ -251,11 +251,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/03890a0d18e6c537b9108ffa996ff88485aa5ae6-384x509.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/osnaAQD",
    "slug": "yo",
-   "total_days": 79,
+   "total_days": 78,
    "avg_hours": 8.6,
    "weekday_dist": [
     6,
-    13,
+    12,
     18,
     16,
     14,
@@ -263,7 +263,7 @@
     4
    ],
    "monthly": {
-    "2025-11": 11,
+    "2025-11": 10,
     "2025-12": 12,
     "2026-01": 13,
     "2026-02": 9,
@@ -283,7 +283,7 @@
     "2026-05-13",
     "2026-05-14"
    ],
-   "freq_per_week": 27.6,
+   "freq_per_week": 27.3,
    "stores_worked": [
     "千葉本店"
    ]
@@ -299,11 +299,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3c0591469d171ed9d3025b19b0bbba6cdb14e659-384x512.webp?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "toda",
-   "total_days": 78,
+   "total_days": 77,
    "avg_hours": 6.3,
    "weekday_dist": [
     16,
-    25,
+    24,
     8,
     2,
     23,
@@ -311,7 +311,7 @@
     0
    ],
    "monthly": {
-    "2025-11": 11,
+    "2025-11": 10,
     "2025-12": 11,
     "2026-01": 12,
     "2026-02": 10,
@@ -331,7 +331,7 @@
     "2026-05-12",
     "2026-05-15"
    ],
-   "freq_per_week": 26.0,
+   "freq_per_week": 25.7,
    "stores_worked": [
     "千葉本店"
    ]
@@ -381,8 +381,8 @@
    ],
    "freq_per_week": 18.2,
    "stores_worked": [
-    "西葛西店",
-    "新橋店"
+    "新橋店",
+    "西葛西店"
    ]
   },
   {
@@ -492,11 +492,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/7ff0f341992608c1b47a7e80df3a6a970e6bd339-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/03Vzi8p",
    "slug": "kashiwagi",
-   "total_days": 64,
+   "total_days": 63,
    "avg_hours": 7.8,
    "weekday_dist": [
     10,
-    10,
+    9,
     5,
     15,
     6,
@@ -504,7 +504,7 @@
     3
    ],
    "monthly": {
-    "2025-11": 5,
+    "2025-11": 4,
     "2026-01": 6,
     "2026-02": 10,
     "2026-03": 19,
@@ -523,10 +523,10 @@
     "2026-05-08",
     "2026-05-09"
    ],
-   "freq_per_week": 32.0,
+   "freq_per_week": 31.5,
    "stores_worked": [
-    "西葛西店",
-    "新橋店"
+    "新橋店",
+    "西葛西店"
    ]
   },
   {
@@ -625,54 +625,6 @@
    ]
   },
   {
-   "id": "f8a78dba-f4f6-4a66-9f4a-8f50117e3d53",
-   "name": "梅田 -Umeda-",
-   "store": "西葛西店",
-   "new": false,
-   "english": null,
-   "enroll_date": "2024-11-16",
-   "description": "【癒し度120％の童顔フレッシュガール】\n業界未経験で初々しい、小動物系キュートなセラピスト♪\n守りたくなるその笑顔と可愛らしいルックス\n若いながらしっかりとした丁寧な接客に施術\n隅々まで余すところなく包みこみます。\nあどけなさ残る彼女との時間をどうか心ゆくまでご堪能ください...",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/5bee36833fd1a451b806edf0af096f1526f04dd1-1128x1442.jpg?w=400&h=600&fit=crop",
-   "line_url": "https://lin.ee/05zTXaU",
-   "slug": "umeda",
-   "total_days": 59,
-   "avg_hours": 7.3,
-   "weekday_dist": [
-    13,
-    9,
-    8,
-    0,
-    13,
-    16,
-    0
-   ],
-   "monthly": {
-    "2025-11": 11,
-    "2025-12": 17,
-    "2026-01": 10,
-    "2026-02": 10,
-    "2026-03": 3,
-    "2026-04": 7,
-    "2026-05": 1
-   },
-   "recent_dates": [
-    "2026-03-07",
-    "2026-03-21",
-    "2026-04-03",
-    "2026-04-10",
-    "2026-04-11",
-    "2026-04-18",
-    "2026-04-24",
-    "2026-04-25",
-    "2026-04-28",
-    "2026-05-01"
-   ],
-   "freq_per_week": 7.5,
-   "stores_worked": [
-    "西葛西店"
-   ]
-  },
-  {
    "id": "57a6b598-5eef-4765-a787-d0da4410eba5",
    "name": "双葉 -Futaba-",
    "store": "千葉本店",
@@ -717,6 +669,54 @@
    "freq_per_week": 20.3,
    "stores_worked": [
     "千葉本店"
+   ]
+  },
+  {
+   "id": "f8a78dba-f4f6-4a66-9f4a-8f50117e3d53",
+   "name": "梅田 -Umeda-",
+   "store": "西葛西店",
+   "new": false,
+   "english": null,
+   "enroll_date": "2024-11-16",
+   "description": "【癒し度120％の童顔フレッシュガール】\n業界未経験で初々しい、小動物系キュートなセラピスト♪\n守りたくなるその笑顔と可愛らしいルックス\n若いながらしっかりとした丁寧な接客に施術\n隅々まで余すところなく包みこみます。\nあどけなさ残る彼女との時間をどうか心ゆくまでご堪能ください...",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/5bee36833fd1a451b806edf0af096f1526f04dd1-1128x1442.jpg?w=400&h=600&fit=crop",
+   "line_url": "https://lin.ee/05zTXaU",
+   "slug": "umeda",
+   "total_days": 58,
+   "avg_hours": 7.2,
+   "weekday_dist": [
+    13,
+    8,
+    8,
+    0,
+    13,
+    16,
+    0
+   ],
+   "monthly": {
+    "2025-11": 10,
+    "2025-12": 17,
+    "2026-01": 10,
+    "2026-02": 10,
+    "2026-03": 3,
+    "2026-04": 7,
+    "2026-05": 1
+   },
+   "recent_dates": [
+    "2026-03-07",
+    "2026-03-21",
+    "2026-04-03",
+    "2026-04-10",
+    "2026-04-11",
+    "2026-04-18",
+    "2026-04-24",
+    "2026-04-25",
+    "2026-04-28",
+    "2026-05-01"
+   ],
+   "freq_per_week": 7.4,
+   "stores_worked": [
+    "西葛西店"
    ]
   },
   {
@@ -847,8 +847,8 @@
    ],
    "freq_per_week": 1.6,
    "stores_worked": [
-    "西葛西店",
-    "新橋店"
+    "新橋店",
+    "西葛西店"
    ]
   },
   {
@@ -889,8 +889,44 @@
    ],
    "freq_per_week": 1.1,
    "stores_worked": [
-    "西葛西店",
-    "新橋店"
+    "新橋店",
+    "西葛西店"
+   ]
+  },
+  {
+   "id": "364a7e8f-6579-4f34-b47b-8512ad76bf0a",
+   "name": "桜井-Sakurai",
+   "store": "千葉本店",
+   "new": true,
+   "english": null,
+   "enroll_date": "2026-05-03",
+   "description": "まずはお会いしてみてください!!そして予想以上\nの美に驚きを隠せないでしょう☆彡\n手触り最高！！街歩けば男性誰もが振り返る美!!￥\n初々しさと可愛さを兼ね備えた新人セラピスト〗\n\n未経験とは思えないほどの一生懸命さと、\n思わず惹かれてしまう可愛らしいルックス…♡\n\nまだ慣れていないからこその距離感や仕草が、\n特別なドキドキを演出してくれます♪\n\n若さ溢れるフレッシュな魅力と\nひたむきな努力でどんどん成長中…♡\n\n今しか味わえない彼女の魅力を、\nぜひご体感ください。",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/ba9e3cb6c1272b84661149120367cb7c0b37a768-225x225.jpg?w=400&h=600&fit=crop",
+   "line_url": null,
+   "slug": "saku",
+   "total_days": 4,
+   "avg_hours": 7.8,
+   "weekday_dist": [
+    2,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "monthly": {
+    "2026-05": 4
+   },
+   "recent_dates": [
+    "2026-05-04",
+    "2026-05-05",
+    "2026-05-11",
+    "2026-05-15"
+   ],
+   "freq_per_week": 2.5,
+   "stores_worked": [
+    "千葉本店"
    ]
   },
   {
@@ -958,33 +994,6 @@
    "stores_worked": [
     "千葉本店"
    ]
-  },
-  {
-   "id": "364a7e8f-6579-4f34-b47b-8512ad76bf0a",
-   "name": "桜井-Sakurai",
-   "store": "千葉本店",
-   "new": true,
-   "english": null,
-   "enroll_date": "2026-05-03",
-   "description": "まずはお会いしてみてください!!そして予想以上\nの美に驚きを隠せないでしょう☆彡\n手触り最高！！街歩けば男性誰もが振り返る美!!￥\n初々しさと可愛さを兼ね備えた新人セラピスト〗\n\n未経験とは思えないほどの一生懸命さと、\n思わず惹かれてしまう可愛らしいルックス…♡\n\nまだ慣れていないからこその距離感や仕草が、\n特別なドキドキを演出してくれます♪\n\n若さ溢れるフレッシュな魅力と\nひたむきな努力でどんどん成長中…♡\n\n今しか味わえない彼女の魅力を、\nぜひご体感ください。",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/ba9e3cb6c1272b84661149120367cb7c0b37a768-225x225.jpg?w=400&h=600&fit=crop",
-   "line_url": null,
-   "slug": "saku",
-   "total_days": 0,
-   "avg_hours": 0,
-   "weekday_dist": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "monthly": {},
-   "recent_dates": [],
-   "freq_per_week": 0,
-   "stores_worked": []
   },
   {
    "id": "5c61f2cc-b406-45e8-8cbd-61b5f172d23b",
@@ -1404,13 +1413,13 @@
    }
   ]
  },
- "total_schedules": 3986,
+ "total_schedules": 3968,
  "date_range": {
-  "from": "2025-11-04",
+  "from": "2025-11-05",
   "to": "2026-05-15"
  },
- "generated_at": "2026-05-03T06:33:00.138263+09:00",
- "today": "2026-05-03",
+ "generated_at": "2026-05-04T06:34:28.818559+09:00",
+ "today": "2026-05-04",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
