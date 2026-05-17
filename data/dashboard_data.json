@@ -11,11 +11,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/7ef18c74c0bab0260d72c5adfd0c5a9cea293785-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/2vf2Das",
    "slug": "shirakawa",
-   "total_days": 154,
+   "total_days": 153,
    "avg_hours": 8.2,
    "weekday_dist": [
     22,
-    23,
+    22,
     22,
     24,
     17,
@@ -23,7 +23,7 @@
     25
    ],
    "monthly": {
-    "2025-11": 8,
+    "2025-11": 7,
     "2025-12": 25,
     "2026-01": 23,
     "2026-02": 23,
@@ -43,7 +43,7 @@
     "2026-05-30",
     "2026-05-31"
    ],
-   "freq_per_week": 89.8,
+   "freq_per_week": 89.2,
    "stores_worked": [
     "新橋店"
    ]
@@ -107,11 +107,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 126,
+   "total_days": 125,
    "avg_hours": 8.2,
    "weekday_dist": [
     18,
-    22,
+    21,
     21,
     15,
     20,
@@ -119,7 +119,7 @@
     11
    ],
    "monthly": {
-    "2025-11": 9,
+    "2025-11": 8,
     "2025-12": 21,
     "2026-01": 20,
     "2026-02": 18,
@@ -139,7 +139,7 @@
     "2026-05-29",
     "2026-05-30"
    ],
-   "freq_per_week": 63.0,
+   "freq_per_week": 62.5,
    "stores_worked": [
     "新橋店"
    ]
@@ -203,11 +203,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d4416fb62e629176b54c4f5985f4c0e8f8e18112-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "kimura",
-   "total_days": 100,
+   "total_days": 99,
    "avg_hours": 5.5,
    "weekday_dist": [
     19,
-    26,
+    25,
     9,
     18,
     26,
@@ -215,7 +215,7 @@
     2
    ],
    "monthly": {
-    "2025-11": 7,
+    "2025-11": 6,
     "2025-12": 15,
     "2026-01": 15,
     "2026-02": 14,
@@ -235,7 +235,7 @@
     "2026-05-28",
     "2026-05-29"
    ],
-   "freq_per_week": 46.7,
+   "freq_per_week": 46.2,
    "stores_worked": [
     "新橋店"
    ]
@@ -251,11 +251,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3c0591469d171ed9d3025b19b0bbba6cdb14e659-384x512.webp?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "toda",
-   "total_days": 75,
+   "total_days": 74,
    "avg_hours": 6.3,
    "weekday_dist": [
     16,
-    25,
+    24,
     7,
     2,
     21,
@@ -263,7 +263,7 @@
     0
    ],
    "monthly": {
-    "2025-11": 4,
+    "2025-11": 3,
     "2025-12": 11,
     "2026-01": 12,
     "2026-02": 10,
@@ -283,7 +283,7 @@
     "2026-05-26",
     "2026-05-29"
    ],
-   "freq_per_week": 19.4,
+   "freq_per_week": 19.2,
    "stores_worked": [
     "千葉本店"
    ]
@@ -299,11 +299,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/03890a0d18e6c537b9108ffa996ff88485aa5ae6-384x509.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/osnaAQD",
    "slug": "yo",
-   "total_days": 75,
+   "total_days": 74,
    "avg_hours": 8.6,
    "weekday_dist": [
     5,
-    11,
+    10,
     18,
     15,
     13,
@@ -311,7 +311,7 @@
     4
    ],
    "monthly": {
-    "2025-11": 5,
+    "2025-11": 4,
     "2025-12": 12,
     "2026-01": 13,
     "2026-02": 9,
@@ -331,7 +331,7 @@
     "2026-05-27",
     "2026-05-30"
    ],
-   "freq_per_week": 16.9,
+   "freq_per_week": 16.7,
    "stores_worked": [
     "千葉本店"
    ]
@@ -490,11 +490,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/40b7c434aeb420771b51c595a6f788735779e1a7-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/l16IZaL",
    "slug": "Aozora",
-   "total_days": 68,
+   "total_days": 67,
    "avg_hours": 9.0,
    "weekday_dist": [
     10,
-    1,
+    0,
     12,
     11,
     11,
@@ -502,7 +502,7 @@
     15
    ],
    "monthly": {
-    "2025-11": 4,
+    "2025-11": 3,
     "2026-01": 6,
     "2026-02": 14,
     "2026-03": 10,
@@ -521,7 +521,7 @@
     "2026-05-30",
     "2026-05-31"
    ],
-   "freq_per_week": 34.0,
+   "freq_per_week": 33.5,
    "stores_worked": [
     "千葉本店"
    ]
@@ -680,11 +680,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5bee36833fd1a451b806edf0af096f1526f04dd1-1128x1442.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/05zTXaU",
    "slug": "umeda",
-   "total_days": 56,
+   "total_days": 55,
    "avg_hours": 7.2,
    "weekday_dist": [
     11,
-    8,
+    7,
     6,
     0,
     14,
@@ -692,7 +692,7 @@
     0
    ],
    "monthly": {
-    "2025-11": 2,
+    "2025-11": 1,
     "2025-12": 17,
     "2026-01": 10,
     "2026-02": 10,
@@ -712,7 +712,7 @@
     "2026-05-29",
     "2026-05-30"
    ],
-   "freq_per_week": 10.9,
+   "freq_per_week": 10.7,
    "stores_worked": [
     "西葛西店"
    ]
@@ -776,7 +776,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/04c37a14063040b737bd68d604e8bb94367767a6-2560x3988.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/pE2Kbfh",
    "slug": "",
-   "total_days": 17,
+   "total_days": 16,
    "avg_hours": 6.8,
    "weekday_dist": [
     0,
@@ -785,7 +785,7 @@
     1,
     0,
     8,
-    6
+    5
    ],
    "monthly": {
     "2025-11": 1,
@@ -794,9 +794,10 @@
     "2026-02": 1,
     "2026-03": 2,
     "2026-04": 2,
-    "2026-05": 4
+    "2026-05": 3
    },
    "recent_dates": [
+    "2025-12-30",
     "2026-01-24",
     "2026-02-14",
     "2026-03-07",
@@ -805,10 +806,9 @@
     "2026-04-26",
     "2026-05-09",
     "2026-05-10",
-    "2026-05-17",
     "2026-05-24"
    ],
-   "freq_per_week": 1.0,
+   "freq_per_week": 0.8,
    "stores_worked": [
     "新橋店"
    ]
@@ -900,6 +900,47 @@
    ]
   },
   {
+   "id": "b95e701d-2cfb-46ea-bfc3-478c9f953b6f",
+   "name": "土屋 -Tsuchiya-",
+   "store": "千葉本店",
+   "new": true,
+   "english": null,
+   "enroll_date": "2026-05-03",
+   "description": "スーパーレディがデビュー\nパッチリ瞳にツヤ感たっぷりの黒髪\n清楚っぽく見えて、実は中身…明るくてキャラ抜群♡\n色気、解放します。\n\nしかも、彼女の魅力は見た目だけじゃ終わらない。\nノリがよくて愛嬌もバツグン、\n笑顔で近づいてきたかと思えば、\nいつの間にかグイグイ主導権を握られてる…\n\nあなたをじっくりほぐし、溶かし、\n濃密タイムをお届けします\n\n超期待の新人がデビューでございます！！！",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/88450e309c392dab626be51f1d79e1f7df0a88e9-877x1477.jpg?w=400&h=600&fit=crop",
+   "line_url": null,
+   "slug": "tsuchiya",
+   "total_days": 9,
+   "avg_hours": 5.5,
+   "weekday_dist": [
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    0
+   ],
+   "monthly": {
+    "2026-05": 9
+   },
+   "recent_dates": [
+    "2026-05-04",
+    "2026-05-11",
+    "2026-05-13",
+    "2026-05-16",
+    "2026-05-18",
+    "2026-05-19",
+    "2026-05-22",
+    "2026-05-28",
+    "2026-05-29"
+   ],
+   "freq_per_week": 2.5,
+   "stores_worked": [
+    "千葉本店"
+   ]
+  },
+  {
    "id": "db16aad0-5b4e-43ca-8376-6e02648e44c9",
    "name": "佐野 -Sano-",
    "store": "千葉本店",
@@ -939,46 +980,6 @@
    "stores_worked": [
     "千葉本店",
     "西葛西店"
-   ]
-  },
-  {
-   "id": "b95e701d-2cfb-46ea-bfc3-478c9f953b6f",
-   "name": "土屋 -Tsuchiya-",
-   "store": "千葉本店",
-   "new": true,
-   "english": null,
-   "enroll_date": "2026-05-03",
-   "description": "スーパーレディがデビュー\nパッチリ瞳にツヤ感たっぷりの黒髪\n清楚っぽく見えて、実は中身…明るくてキャラ抜群♡\n色気、解放します。\n\nしかも、彼女の魅力は見た目だけじゃ終わらない。\nノリがよくて愛嬌もバツグン、\n笑顔で近づいてきたかと思えば、\nいつの間にかグイグイ主導権を握られてる…\n\nあなたをじっくりほぐし、溶かし、\n濃密タイムをお届けします\n\n超期待の新人がデビューでございます！！！",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/88450e309c392dab626be51f1d79e1f7df0a88e9-877x1477.jpg?w=400&h=600&fit=crop",
-   "line_url": null,
-   "slug": "tsuchiya",
-   "total_days": 8,
-   "avg_hours": 5.3,
-   "weekday_dist": [
-    3,
-    0,
-    1,
-    1,
-    2,
-    1,
-    0
-   ],
-   "monthly": {
-    "2026-05": 8
-   },
-   "recent_dates": [
-    "2026-05-04",
-    "2026-05-11",
-    "2026-05-13",
-    "2026-05-16",
-    "2026-05-18",
-    "2026-05-22",
-    "2026-05-28",
-    "2026-05-29"
-   ],
-   "freq_per_week": 2.2,
-   "stores_worked": [
-    "千葉本店"
    ]
   },
   {
@@ -1466,13 +1467,13 @@
    }
   ]
  },
- "total_schedules": 4106,
+ "total_schedules": 4088,
  "date_range": {
-  "from": "2025-11-18",
+  "from": "2025-11-19",
   "to": "2026-05-31"
  },
- "generated_at": "2026-05-17T06:40:38.690729+09:00",
- "today": "2026-05-17",
+ "generated_at": "2026-05-18T06:45:53.934386+09:00",
+ "today": "2026-05-18",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
