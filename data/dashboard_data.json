@@ -49,54 +49,6 @@
    ]
   },
   {
-   "id": "5a319217-46ad-4bc2-bcaf-30e8944b0d68",
-   "name": "伊藤 -Ito-",
-   "store": "西葛西店",
-   "new": false,
-   "english": null,
-   "enroll_date": "2023-04-05",
-   "description": "【おっとり系テクニシャン】\nすらっとした細身の体に満点スマイル\nおっとりとした性格に強弱のつくマッサージ\n経験豊富な技術で繰り出すフェザータッチは病みつきになることでしょう…\nあなたの身も心も癒やす上級リラクゼーションをぜひ体感してみてください。",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/2832a9336460ea6689481948b2532edc6e2e0da2-965x1514.jpg?w=400&h=600&fit=crop",
-   "line_url": null,
-   "slug": "ito",
-   "total_days": 124,
-   "avg_hours": 7.0,
-   "weekday_dist": [
-    18,
-    17,
-    20,
-    20,
-    19,
-    12,
-    18
-   ],
-   "monthly": {
-    "2025-11": 6,
-    "2025-12": 22,
-    "2026-01": 24,
-    "2026-02": 20,
-    "2026-03": 27,
-    "2026-04": 18,
-    "2026-05": 7
-   },
-   "recent_dates": [
-    "2026-04-28",
-    "2026-04-29",
-    "2026-04-30",
-    "2026-05-03",
-    "2026-05-04",
-    "2026-05-13",
-    "2026-05-17",
-    "2026-05-19",
-    "2026-05-24",
-    "2026-05-26"
-   ],
-   "freq_per_week": 31.0,
-   "stores_worked": [
-    "西葛西店"
-   ]
-  },
-  {
    "id": "05f91188-a969-4fe7-94a2-42cb882a1aa3",
    "name": "三浦 -Miura-",
    "store": "新橋店",
@@ -107,7 +59,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 123,
+   "total_days": 122,
    "avg_hours": 8.2,
    "weekday_dist": [
     18,
@@ -115,11 +67,11 @@
     20,
     15,
     19,
-    19,
+    18,
     11
    ],
    "monthly": {
-    "2025-11": 6,
+    "2025-11": 5,
     "2025-12": 21,
     "2026-01": 20,
     "2026-02": 18,
@@ -139,9 +91,57 @@
     "2026-05-29",
     "2026-05-30"
    ],
-   "freq_per_week": 61.5,
+   "freq_per_week": 61.0,
    "stores_worked": [
     "新橋店"
+   ]
+  },
+  {
+   "id": "5a319217-46ad-4bc2-bcaf-30e8944b0d68",
+   "name": "伊藤 -Ito-",
+   "store": "西葛西店",
+   "new": false,
+   "english": null,
+   "enroll_date": "2023-04-05",
+   "description": "【おっとり系テクニシャン】\nすらっとした細身の体に満点スマイル\nおっとりとした性格に強弱のつくマッサージ\n経験豊富な技術で繰り出すフェザータッチは病みつきになることでしょう…\nあなたの身も心も癒やす上級リラクゼーションをぜひ体感してみてください。",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/2832a9336460ea6689481948b2532edc6e2e0da2-965x1514.jpg?w=400&h=600&fit=crop",
+   "line_url": null,
+   "slug": "ito",
+   "total_days": 122,
+   "avg_hours": 7.0,
+   "weekday_dist": [
+    18,
+    17,
+    20,
+    20,
+    19,
+    11,
+    17
+   ],
+   "monthly": {
+    "2025-11": 5,
+    "2025-12": 22,
+    "2026-01": 24,
+    "2026-02": 20,
+    "2026-03": 27,
+    "2026-04": 18,
+    "2026-05": 6
+   },
+   "recent_dates": [
+    "2026-04-27",
+    "2026-04-28",
+    "2026-04-29",
+    "2026-04-30",
+    "2026-05-03",
+    "2026-05-04",
+    "2026-05-13",
+    "2026-05-17",
+    "2026-05-19",
+    "2026-05-26"
+   ],
+   "freq_per_week": 29.4,
+   "stores_worked": [
+    "西葛西店"
    ]
   },
   {
@@ -155,7 +155,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5b528da5eb53d124a39d99cc082cb770bd39e935-1108x1478.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "momo",
-   "total_days": 116,
+   "total_days": 115,
    "avg_hours": 8.1,
    "weekday_dist": [
     18,
@@ -163,11 +163,11 @@
     16,
     14,
     12,
-    21,
+    20,
     18
    ],
    "monthly": {
-    "2025-11": 4,
+    "2025-11": 3,
     "2025-12": 22,
     "2026-01": 21,
     "2026-02": 19,
@@ -187,7 +187,7 @@
     "2026-05-17",
     "2026-05-21"
    ],
-   "freq_per_week": 50.8,
+   "freq_per_week": 50.3,
    "stores_worked": [
     "千葉本店"
    ]
@@ -251,14 +251,14 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/03890a0d18e6c537b9108ffa996ff88485aa5ae6-384x509.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/osnaAQD",
    "slug": "yo",
-   "total_days": 74,
+   "total_days": 75,
    "avg_hours": 8.6,
    "weekday_dist": [
     5,
     10,
     18,
     15,
-    13,
+    14,
     9,
     4
    ],
@@ -269,10 +269,9 @@
     "2026-02": 9,
     "2026-03": 14,
     "2026-04": 13,
-    "2026-05": 10
+    "2026-05": 11
    },
    "recent_dates": [
-    "2026-05-01",
     "2026-05-02",
     "2026-05-05",
     "2026-05-06",
@@ -281,9 +280,10 @@
     "2026-05-14",
     "2026-05-22",
     "2026-05-27",
+    "2026-05-29",
     "2026-05-30"
    ],
-   "freq_per_week": 17.9,
+   "freq_per_week": 18.8,
    "stores_worked": [
     "千葉本店"
    ]
@@ -475,8 +475,8 @@
    ],
    "freq_per_week": 22.3,
    "stores_worked": [
-    "新橋店",
-    "西葛西店"
+    "西葛西店",
+    "新橋店"
    ]
   },
   {
@@ -537,7 +537,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d1901fe1715110d1e0e4c1683acc52c425615f1e-996x1642.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/o6PkDwI",
    "slug": "mori",
-   "total_days": 65,
+   "total_days": 64,
    "avg_hours": 7.0,
    "weekday_dist": [
     10,
@@ -545,11 +545,11 @@
     14,
     9,
     10,
-    14,
+    13,
     3
    ],
    "monthly": {
-    "2025-11": 4,
+    "2025-11": 3,
     "2025-12": 14,
     "2026-01": 12,
     "2026-02": 9,
@@ -569,7 +569,7 @@
     "2026-05-26",
     "2026-05-27"
    ],
-   "freq_per_week": 16.2,
+   "freq_per_week": 16.0,
    "stores_worked": [
     "千葉本店"
    ]
@@ -776,19 +776,18 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/04c37a14063040b737bd68d604e8bb94367767a6-2560x3988.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/pE2Kbfh",
    "slug": "",
-   "total_days": 16,
-   "avg_hours": 6.8,
+   "total_days": 15,
+   "avg_hours": 6.6,
    "weekday_dist": [
     0,
     2,
     0,
     1,
     0,
-    8,
+    7,
     5
    ],
    "monthly": {
-    "2025-11": 1,
     "2025-12": 6,
     "2026-01": 1,
     "2026-02": 1,
@@ -808,7 +807,7 @@
     "2026-05-10",
     "2026-05-24"
    ],
-   "freq_per_week": 0.8,
+   "freq_per_week": 0.7,
    "stores_worked": [
     "新橋店"
    ]
@@ -853,8 +852,8 @@
    ],
    "freq_per_week": 2.1,
    "stores_worked": [
-    "新橋店",
-    "西葛西店"
+    "西葛西店",
+    "新橋店"
    ]
   },
   {
@@ -978,8 +977,8 @@
    ],
    "freq_per_week": 3.5,
    "stores_worked": [
-    "千葉本店",
-    "西葛西店"
+    "西葛西店",
+    "千葉本店"
    ]
   },
   {
@@ -1018,8 +1017,8 @@
    ],
    "freq_per_week": 1.4,
    "stores_worked": [
-    "新橋店",
-    "西葛西店"
+    "西葛西店",
+    "新橋店"
    ]
   },
   {
@@ -1467,13 +1466,13 @@
    }
   ]
  },
- "total_schedules": 4035,
+ "total_schedules": 4022,
  "date_range": {
-  "from": "2025-11-22",
+  "from": "2025-11-23",
   "to": "2026-05-31"
  },
- "generated_at": "2026-05-21T07:19:41.227946+09:00",
- "today": "2026-05-21",
+ "generated_at": "2026-05-22T07:13:20.680713+09:00",
+ "today": "2026-05-22",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
