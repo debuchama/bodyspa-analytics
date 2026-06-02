@@ -14,25 +14,24 @@
    "total_days": 154,
    "avg_hours": 8.2,
    "weekday_dist": [
+    23,
     22,
     22,
-    22,
-    25,
+    24,
     16,
     21,
     26
    ],
    "monthly": {
-    "2025-12": 22,
+    "2025-12": 21,
     "2026-01": 23,
     "2026-02": 23,
     "2026-03": 26,
     "2026-04": 25,
     "2026-05": 25,
-    "2026-06": 10
+    "2026-06": 11
    },
    "recent_dates": [
-    "2026-06-01",
     "2026-06-03",
     "2026-06-04",
     "2026-06-07",
@@ -41,9 +40,10 @@
     "2026-06-10",
     "2026-06-11",
     "2026-06-13",
-    "2026-06-14"
+    "2026-06-14",
+    "2026-06-15"
    ],
-   "freq_per_week": 82.9,
+   "freq_per_week": 89.8,
    "stores_worked": [
     "新橋店"
    ]
@@ -59,10 +59,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 121,
+   "total_days": 122,
    "avg_hours": 8.2,
    "weekday_dist": [
-    18,
+    19,
     20,
     20,
     16,
@@ -77,10 +77,9 @@
     "2026-03": 21,
     "2026-04": 20,
     "2026-05": 17,
-    "2026-06": 7
+    "2026-06": 8
    },
    "recent_dates": [
-    "2026-05-27",
     "2026-05-29",
     "2026-05-30",
     "2026-06-01",
@@ -89,9 +88,10 @@
     "2026-06-06",
     "2026-06-09",
     "2026-06-10",
-    "2026-06-11"
+    "2026-06-11",
+    "2026-06-15"
    ],
-   "freq_per_week": 56.5,
+   "freq_per_week": 50.2,
    "stores_worked": [
     "新橋店"
    ]
@@ -107,19 +107,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/2832a9336460ea6689481948b2532edc6e2e0da2-965x1514.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "ito",
-   "total_days": 120,
+   "total_days": 119,
    "avg_hours": 7.1,
    "weekday_dist": [
     20,
     16,
     18,
-    20,
+    19,
     20,
     10,
     16
    ],
    "monthly": {
-    "2025-12": 19,
+    "2025-12": 18,
     "2026-01": 24,
     "2026-02": 20,
     "2026-03": 27,
@@ -139,7 +139,7 @@
     "2026-06-09",
     "2026-06-15"
    ],
-   "freq_per_week": 25.5,
+   "freq_per_week": 25.2,
    "stores_worked": [
     "西葛西店"
    ]
@@ -155,19 +155,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5b528da5eb53d124a39d99cc082cb770bd39e935-1108x1478.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "momo",
-   "total_days": 116,
+   "total_days": 115,
    "avg_hours": 8.1,
    "weekday_dist": [
     17,
     16,
     16,
-    15,
+    14,
     11,
     22,
     19
    ],
    "monthly": {
-    "2025-12": 19,
+    "2025-12": 18,
     "2026-01": 21,
     "2026-02": 19,
     "2026-03": 17,
@@ -187,7 +187,7 @@
     "2026-05-31",
     "2026-06-02"
    ],
-   "freq_per_week": 47.8,
+   "freq_per_week": 47.4,
    "stores_worked": [
     "千葉本店"
    ]
@@ -203,10 +203,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d4416fb62e629176b54c4f5985f4c0e8f8e18112-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "kimura",
-   "total_days": 99,
+   "total_days": 100,
    "avg_hours": 5.6,
    "weekday_dist": [
-    21,
+    22,
     25,
     7,
     19,
@@ -221,10 +221,9 @@
     "2026-03": 17,
     "2026-04": 16,
     "2026-05": 16,
-    "2026-06": 8
+    "2026-06": 9
    },
    "recent_dates": [
-    "2026-05-28",
     "2026-05-29",
     "2026-06-01",
     "2026-06-02",
@@ -233,9 +232,10 @@
     "2026-06-08",
     "2026-06-09",
     "2026-06-11",
-    "2026-06-12"
+    "2026-06-12",
+    "2026-06-15"
    ],
-   "freq_per_week": 46.2,
+   "freq_per_week": 41.2,
    "stores_worked": [
     "新橋店"
    ]
@@ -346,19 +346,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/03890a0d18e6c537b9108ffa996ff88485aa5ae6-384x509.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/osnaAQD",
    "slug": "yo",
-   "total_days": 77,
+   "total_days": 76,
    "avg_hours": 8.7,
    "weekday_dist": [
     6,
     10,
     17,
-    16,
+    15,
     16,
     8,
     4
    ],
    "monthly": {
-    "2025-12": 12,
+    "2025-12": 11,
     "2026-01": 13,
     "2026-02": 9,
     "2026-03": 14,
@@ -378,7 +378,7 @@
     "2026-06-11",
     "2026-06-12"
    ],
-   "freq_per_week": 18.6,
+   "freq_per_week": 18.3,
    "stores_worked": [
     "千葉本店"
    ]
@@ -442,19 +442,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/9fcc5062dcc270d177644a10ade035dd073bab55-1728x2304.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/T9NDLro",
    "slug": "otsuka",
-   "total_days": 72,
+   "total_days": 71,
    "avg_hours": 6.2,
    "weekday_dist": [
     12,
     1,
     21,
-    21,
+    20,
     17,
     0,
     0
    ],
    "monthly": {
-    "2025-12": 11,
+    "2025-12": 10,
     "2026-01": 11,
     "2026-02": 11,
     "2026-03": 12,
@@ -474,7 +474,7 @@
     "2026-06-10",
     "2026-06-11"
    ],
-   "freq_per_week": 25.2,
+   "freq_per_week": 24.8,
    "stores_worked": [
     "新橋店",
     "西葛西店"
@@ -1472,13 +1472,13 @@
    }
   ]
  },
- "total_schedules": 4094,
+ "total_schedules": 4079,
  "date_range": {
-  "from": "2025-12-04",
+  "from": "2025-12-05",
   "to": "2026-06-15"
  },
- "generated_at": "2026-06-02T07:57:21.036777+09:00",
- "today": "2026-06-02",
+ "generated_at": "2026-06-03T07:55:24.050146+09:00",
+ "today": "2026-06-03",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
