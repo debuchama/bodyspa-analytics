@@ -11,10 +11,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/7ef18c74c0bab0260d72c5adfd0c5a9cea293785-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/2vf2Das",
    "slug": "shirakawa",
-   "total_days": 152,
+   "total_days": 151,
    "avg_hours": 8.2,
    "weekday_dist": [
-    23,
+    22,
     22,
     22,
     24,
@@ -23,7 +23,7 @@
     25
    ],
    "monthly": {
-    "2025-12": 19,
+    "2025-12": 18,
     "2026-01": 23,
     "2026-02": 23,
     "2026-03": 26,
@@ -43,7 +43,7 @@
     "2026-06-14",
     "2026-06-15"
    ],
-   "freq_per_week": 88.7,
+   "freq_per_week": 88.1,
    "stores_worked": [
     "新橋店"
    ]
@@ -97,6 +97,54 @@
    ]
   },
   {
+   "id": "39c97c6e-7160-4013-a7fa-f34f7c693689",
+   "name": "百瀬 -Momose-",
+   "store": "千葉本店",
+   "new": false,
+   "english": null,
+   "enroll_date": "2023-10-09",
+   "description": "とっても可愛いルックスで全身色白の美肌!\n最高にキュートでありながら元気もしっかり\n兼ね備えた美人娘の紹介です♪\n涙袋があどけなさを感じさせつつもパッチリ\nとしたその瞳は、、お客様のスイッチを簡単に\nON TIMEにしてしまうでしょう!\n10本の奏でる指つきにリラクゼーションMAXです!!\nこんなに可愛らしい女の子がこのエステ業界で、\nこれからどのように成長するのか楽しみです。。",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/5b528da5eb53d124a39d99cc082cb770bd39e935-1108x1478.jpg?w=400&h=600&fit=crop",
+   "line_url": null,
+   "slug": "momo",
+   "total_days": 115,
+   "avg_hours": 8.1,
+   "weekday_dist": [
+    16,
+    16,
+    16,
+    15,
+    11,
+    22,
+    19
+   ],
+   "monthly": {
+    "2025-12": 14,
+    "2026-01": 21,
+    "2026-02": 19,
+    "2026-03": 17,
+    "2026-04": 20,
+    "2026-05": 19,
+    "2026-06": 5
+   },
+   "recent_dates": [
+    "2026-05-25",
+    "2026-05-27",
+    "2026-05-28",
+    "2026-05-30",
+    "2026-05-31",
+    "2026-06-02",
+    "2026-06-04",
+    "2026-06-05",
+    "2026-06-06",
+    "2026-06-07"
+   ],
+   "freq_per_week": 61.9,
+   "stores_worked": [
+    "千葉本店"
+   ]
+  },
+  {
    "id": "5a319217-46ad-4bc2-bcaf-30e8944b0d68",
    "name": "伊藤 -Ito-",
    "store": "西葛西店",
@@ -107,10 +155,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/2832a9336460ea6689481948b2532edc6e2e0da2-965x1514.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "ito",
-   "total_days": 116,
+   "total_days": 115,
    "avg_hours": 7.1,
    "weekday_dist": [
-    20,
+    19,
     16,
     18,
     19,
@@ -119,7 +167,7 @@
     15
    ],
    "monthly": {
-    "2025-12": 15,
+    "2025-12": 14,
     "2026-01": 24,
     "2026-02": 20,
     "2026-03": 27,
@@ -139,57 +187,9 @@
     "2026-06-09",
     "2026-06-15"
    ],
-   "freq_per_week": 24.6,
+   "freq_per_week": 24.4,
    "stores_worked": [
     "西葛西店"
-   ]
-  },
-  {
-   "id": "39c97c6e-7160-4013-a7fa-f34f7c693689",
-   "name": "百瀬 -Momose-",
-   "store": "千葉本店",
-   "new": false,
-   "english": null,
-   "enroll_date": "2023-10-09",
-   "description": "とっても可愛いルックスで全身色白の美肌!\n最高にキュートでありながら元気もしっかり\n兼ね備えた美人娘の紹介です♪\n涙袋があどけなさを感じさせつつもパッチリ\nとしたその瞳は、、お客様のスイッチを簡単に\nON TIMEにしてしまうでしょう!\n10本の奏でる指つきにリラクゼーションMAXです!!\nこんなに可愛らしい女の子がこのエステ業界で、\nこれからどのように成長するのか楽しみです。。",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/5b528da5eb53d124a39d99cc082cb770bd39e935-1108x1478.jpg?w=400&h=600&fit=crop",
-   "line_url": null,
-   "slug": "momo",
-   "total_days": 115,
-   "avg_hours": 8.1,
-   "weekday_dist": [
-    17,
-    16,
-    16,
-    15,
-    11,
-    22,
-    18
-   ],
-   "monthly": {
-    "2025-12": 15,
-    "2026-01": 21,
-    "2026-02": 19,
-    "2026-03": 17,
-    "2026-04": 20,
-    "2026-05": 19,
-    "2026-06": 4
-   },
-   "recent_dates": [
-    "2026-05-23",
-    "2026-05-25",
-    "2026-05-27",
-    "2026-05-28",
-    "2026-05-30",
-    "2026-05-31",
-    "2026-06-02",
-    "2026-06-04",
-    "2026-06-05",
-    "2026-06-06"
-   ],
-   "freq_per_week": 57.5,
-   "stores_worked": [
-    "千葉本店"
    ]
   },
   {
@@ -203,10 +203,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d4416fb62e629176b54c4f5985f4c0e8f8e18112-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "kimura",
-   "total_days": 99,
+   "total_days": 98,
    "avg_hours": 5.6,
    "weekday_dist": [
-    22,
+    21,
     25,
     7,
     19,
@@ -215,7 +215,7 @@
     1
    ],
    "monthly": {
-    "2025-12": 12,
+    "2025-12": 11,
     "2026-01": 15,
     "2026-02": 14,
     "2026-03": 17,
@@ -235,7 +235,7 @@
     "2026-06-12",
     "2026-06-15"
    ],
-   "freq_per_week": 40.8,
+   "freq_per_week": 40.4,
    "stores_worked": [
     "新橋店"
    ]
@@ -298,10 +298,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3c0591469d171ed9d3025b19b0bbba6cdb14e659-384x512.webp?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "toda",
-   "total_days": 77,
+   "total_days": 76,
    "avg_hours": 6.2,
    "weekday_dist": [
-    19,
+    18,
     25,
     6,
     1,
@@ -310,7 +310,7 @@
     0
    ],
    "monthly": {
-    "2025-12": 9,
+    "2025-12": 8,
     "2026-01": 12,
     "2026-02": 10,
     "2026-03": 15,
@@ -330,7 +330,7 @@
     "2026-06-12",
     "2026-06-15"
    ],
-   "freq_per_week": 26.9,
+   "freq_per_week": 26.6,
    "stores_worked": [
     "千葉本店"
    ]
@@ -442,10 +442,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/9fcc5062dcc270d177644a10ade035dd073bab55-1728x2304.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/T9NDLro",
    "slug": "otsuka",
-   "total_days": 71,
+   "total_days": 70,
    "avg_hours": 6.2,
    "weekday_dist": [
-    12,
+    11,
     1,
     21,
     20,
@@ -454,7 +454,7 @@
     0
    ],
    "monthly": {
-    "2025-12": 10,
+    "2025-12": 9,
     "2026-01": 11,
     "2026-02": 11,
     "2026-03": 12,
@@ -474,7 +474,7 @@
     "2026-06-10",
     "2026-06-11"
    ],
-   "freq_per_week": 24.8,
+   "freq_per_week": 24.5,
    "stores_worked": [
     "西葛西店",
     "新橋店"
@@ -586,10 +586,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d1901fe1715110d1e0e4c1683acc52c425615f1e-996x1642.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/o6PkDwI",
    "slug": "mori",
-   "total_days": 63,
+   "total_days": 62,
    "avg_hours": 7.0,
    "weekday_dist": [
-    9,
+    8,
     5,
     14,
     10,
@@ -598,7 +598,7 @@
     2
    ],
    "monthly": {
-    "2025-12": 11,
+    "2025-12": 10,
     "2026-01": 12,
     "2026-02": 9,
     "2026-03": 11,
@@ -618,7 +618,7 @@
     "2026-06-11",
     "2026-06-13"
    ],
-   "freq_per_week": 18.4,
+   "freq_per_week": 18.1,
    "stores_worked": [
     "千葉本店"
    ]
@@ -634,10 +634,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/ccda4df4db8f054af5d4c2e19f4950d81d5a830f-1108x1478.jpg?w=400&h=600&fit=crop",
    "line_url": "https://page.line.me/531aukih",
    "slug": "oshima",
-   "total_days": 53,
+   "total_days": 52,
    "avg_hours": 6.9,
    "weekday_dist": [
-    17,
+    16,
     3,
     10,
     7,
@@ -646,7 +646,7 @@
     1
    ],
    "monthly": {
-    "2025-12": 9,
+    "2025-12": 8,
     "2026-01": 13,
     "2026-02": 11,
     "2026-03": 12,
@@ -666,7 +666,7 @@
     "2026-05-18",
     "2026-06-05"
    ],
-   "freq_per_week": 5.5,
+   "freq_per_week": 5.4,
    "stores_worked": [
     "新橋店"
    ]
@@ -682,10 +682,10 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5bee36833fd1a451b806edf0af096f1526f04dd1-1128x1442.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/05zTXaU",
    "slug": "umeda",
-   "total_days": 53,
+   "total_days": 52,
    "avg_hours": 7.1,
    "weekday_dist": [
-    10,
+    9,
     6,
     5,
     0,
@@ -694,7 +694,7 @@
     0
    ],
    "monthly": {
-    "2025-12": 12,
+    "2025-12": 11,
     "2026-01": 10,
     "2026-02": 10,
     "2026-03": 3,
@@ -714,7 +714,7 @@
     "2026-06-12",
     "2026-06-13"
    ],
-   "freq_per_week": 12.8,
+   "freq_per_week": 12.6,
    "stores_worked": [
     "西葛西店"
    ]
@@ -1472,13 +1472,13 @@
    }
   ]
  },
- "total_schedules": 4031,
+ "total_schedules": 4012,
  "date_range": {
-  "from": "2025-12-08",
+  "from": "2025-12-09",
   "to": "2026-06-15"
  },
- "generated_at": "2026-06-06T07:10:23.290126+09:00",
- "today": "2026-06-06",
+ "generated_at": "2026-06-07T06:58:04.986731+09:00",
+ "today": "2026-06-07",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
