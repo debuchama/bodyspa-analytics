@@ -11,19 +11,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/7ef18c74c0bab0260d72c5adfd0c5a9cea293785-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/2vf2Das",
    "slug": "shirakawa",
-   "total_days": 149,
+   "total_days": 148,
    "avg_hours": 8.2,
    "weekday_dist": [
     22,
     20,
     22,
     21,
-    17,
+    16,
     22,
     25
    ],
    "monthly": {
-    "2025-12": 6,
+    "2025-12": 5,
     "2026-01": 23,
     "2026-02": 23,
     "2026-03": 26,
@@ -43,7 +43,7 @@
     "2026-06-27",
     "2026-06-28"
    ],
-   "freq_per_week": 80.2,
+   "freq_per_week": 79.7,
    "stores_worked": [
     "新橋店"
    ]
@@ -59,19 +59,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 117,
+   "total_days": 116,
    "avg_hours": 8.2,
    "weekday_dist": [
     19,
     21,
     17,
     17,
-    18,
+    17,
     17,
     8
    ],
    "monthly": {
-    "2025-12": 5,
+    "2025-12": 4,
     "2026-01": 20,
     "2026-02": 18,
     "2026-03": 21,
@@ -91,7 +91,7 @@
     "2026-06-29",
     "2026-06-30"
    ],
-   "freq_per_week": 43.1,
+   "freq_per_week": 42.7,
    "stores_worked": [
     "新橋店"
    ]
@@ -155,19 +155,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/2832a9336460ea6689481948b2532edc6e2e0da2-965x1514.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "ito",
-   "total_days": 108,
+   "total_days": 107,
    "avg_hours": 7.3,
    "weekday_dist": [
     19,
     15,
     16,
     17,
-    18,
+    17,
     9,
     14
    ],
    "monthly": {
-    "2025-12": 2,
+    "2025-12": 1,
     "2026-01": 24,
     "2026-02": 20,
     "2026-03": 27,
@@ -187,7 +187,7 @@
     "2026-06-27",
     "2026-06-29"
    ],
-   "freq_per_week": 27.0,
+   "freq_per_week": 26.8,
    "stores_worked": [
     "西葛西店"
    ]
@@ -203,19 +203,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/d4416fb62e629176b54c4f5985f4c0e8f8e18112-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "kimura",
-   "total_days": 98,
+   "total_days": 97,
    "avg_hours": 5.7,
    "weekday_dist": [
     22,
     25,
     5,
     21,
-    24,
+    23,
     0,
     1
    ],
    "monthly": {
-    "2025-12": 3,
+    "2025-12": 2,
     "2026-01": 15,
     "2026-02": 14,
     "2026-03": 17,
@@ -235,7 +235,7 @@
     "2026-06-29",
     "2026-06-30"
    ],
-   "freq_per_week": 38.1,
+   "freq_per_week": 37.7,
    "stores_worked": [
     "新橋店"
    ]
@@ -251,7 +251,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/7ff0f341992608c1b47a7e80df3a6a970e6bd339-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/03Vzi8p",
    "slug": "kashiwagi",
-   "total_days": 86,
+   "total_days": 87,
    "avg_hours": 7.9,
    "weekday_dist": [
     16,
@@ -260,7 +260,7 @@
     15,
     12,
     17,
-    2
+    3
    ],
    "monthly": {
     "2026-01": 6,
@@ -268,10 +268,9 @@
     "2026-03": 19,
     "2026-04": 18,
     "2026-05": 19,
-    "2026-06": 14
+    "2026-06": 15
    },
    "recent_dates": [
-    "2026-06-10",
     "2026-06-12",
     "2026-06-13",
     "2026-06-15",
@@ -280,9 +279,10 @@
     "2026-06-20",
     "2026-06-22",
     "2026-06-26",
+    "2026-06-28",
     "2026-06-30"
    ],
-   "freq_per_week": 30.1,
+   "freq_per_week": 33.8,
    "stores_worked": [
     "西葛西店"
    ]
@@ -345,19 +345,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3c0591469d171ed9d3025b19b0bbba6cdb14e659-384x512.webp?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "toda",
-   "total_days": 75,
+   "total_days": 74,
    "avg_hours": 6.2,
    "weekday_dist": [
     18,
     24,
     6,
     2,
-    21,
+    20,
     4,
     0
    ],
    "monthly": {
-    "2025-12": 2,
+    "2025-12": 1,
     "2026-01": 12,
     "2026-02": 10,
     "2026-03": 15,
@@ -377,7 +377,7 @@
     "2026-06-29",
     "2026-06-30"
    ],
-   "freq_per_week": 23.9,
+   "freq_per_week": 23.5,
    "stores_worked": [
     "千葉本店"
    ]
@@ -393,19 +393,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/03890a0d18e6c537b9108ffa996ff88485aa5ae6-384x509.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/osnaAQD",
    "slug": "yo",
-   "total_days": 75,
+   "total_days": 74,
    "avg_hours": 8.7,
    "weekday_dist": [
     7,
     10,
     16,
     15,
-    17,
+    16,
     8,
     2
    ],
    "monthly": {
-    "2025-12": 3,
+    "2025-12": 2,
     "2026-01": 13,
     "2026-02": 9,
     "2026-03": 14,
@@ -425,55 +425,7 @@
     "2026-06-29",
     "2026-06-30"
    ],
-   "freq_per_week": 25.0,
-   "stores_worked": [
-    "千葉本店"
-   ]
-  },
-  {
-   "id": "2e4a3618-8f0b-4d22-a14d-82cb8b090a1c",
-   "name": "夢乃 -Yumeno-",
-   "store": "千葉本店",
-   "new": false,
-   "english": null,
-   "enroll_date": "2023-07-22",
-   "description": "異性を魅了する美貌に圧巻の存在感。\nとうとう出現致しました。\n今後予約を取るのは難しくなり、\n今風に言えばバズる事は間違いなし!!\n高身長な美人さんで、日本男児の好みにどストライク！\n愛嬌・雰囲気\nスタイル・ルックス\n性格・努力\n全て兼ね揃えてます。\n色気抜群で綺麗なスタイリング\n今後貴方好みのセラピストに変身していくでしょう。\n裏表のないさわやかな明るさと愛嬌溢れるセラピストでございます。",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/56c90590dcc26c8cab812f04e2cdf009aab65b25-1117x1467.jpg?w=400&h=600&fit=crop",
-   "line_url": null,
-   "slug": "yumeno",
-   "total_days": 70,
-   "avg_hours": 6.6,
-   "weekday_dist": [
-    7,
-    10,
-    12,
-    8,
-    16,
-    7,
-    10
-   ],
-   "monthly": {
-    "2025-12": 2,
-    "2026-01": 9,
-    "2026-02": 6,
-    "2026-03": 14,
-    "2026-04": 17,
-    "2026-05": 12,
-    "2026-06": 10
-   },
-   "recent_dates": [
-    "2026-06-01",
-    "2026-06-03",
-    "2026-06-04",
-    "2026-06-09",
-    "2026-06-10",
-    "2026-06-19",
-    "2026-06-21",
-    "2026-06-24",
-    "2026-06-26",
-    "2026-06-30"
-   ],
-   "freq_per_week": 16.9,
+   "freq_per_week": 24.7,
    "stores_worked": [
     "千葉本店"
    ]
@@ -523,8 +475,56 @@
    ],
    "freq_per_week": 25.8,
    "stores_worked": [
-    "西葛西店",
-    "新橋店"
+    "新橋店",
+    "西葛西店"
+   ]
+  },
+  {
+   "id": "2e4a3618-8f0b-4d22-a14d-82cb8b090a1c",
+   "name": "夢乃 -Yumeno-",
+   "store": "千葉本店",
+   "new": false,
+   "english": null,
+   "enroll_date": "2023-07-22",
+   "description": "異性を魅了する美貌に圧巻の存在感。\nとうとう出現致しました。\n今後予約を取るのは難しくなり、\n今風に言えばバズる事は間違いなし!!\n高身長な美人さんで、日本男児の好みにどストライク！\n愛嬌・雰囲気\nスタイル・ルックス\n性格・努力\n全て兼ね揃えてます。\n色気抜群で綺麗なスタイリング\n今後貴方好みのセラピストに変身していくでしょう。\n裏表のないさわやかな明るさと愛嬌溢れるセラピストでございます。",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/56c90590dcc26c8cab812f04e2cdf009aab65b25-1117x1467.jpg?w=400&h=600&fit=crop",
+   "line_url": null,
+   "slug": "yumeno",
+   "total_days": 69,
+   "avg_hours": 6.7,
+   "weekday_dist": [
+    7,
+    10,
+    12,
+    8,
+    15,
+    7,
+    10
+   ],
+   "monthly": {
+    "2025-12": 1,
+    "2026-01": 9,
+    "2026-02": 6,
+    "2026-03": 14,
+    "2026-04": 17,
+    "2026-05": 12,
+    "2026-06": 10
+   },
+   "recent_dates": [
+    "2026-06-01",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-09",
+    "2026-06-10",
+    "2026-06-19",
+    "2026-06-21",
+    "2026-06-24",
+    "2026-06-26",
+    "2026-06-30"
+   ],
+   "freq_per_week": 16.7,
+   "stores_worked": [
+    "千葉本店"
    ]
   },
   {
@@ -586,19 +586,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/761d2ef2f8ea094b83dca00866ea1927ad226ceb-640x853.webp?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/o6PkDwI",
    "slug": "mori",
-   "total_days": 62,
+   "total_days": 61,
    "avg_hours": 7.0,
    "weekday_dist": [
     9,
     5,
     12,
     9,
-    11,
+    10,
     14,
     2
    ],
    "monthly": {
-    "2025-12": 4,
+    "2025-12": 3,
     "2026-01": 12,
     "2026-02": 9,
     "2026-03": 11,
@@ -618,7 +618,7 @@
     "2026-06-20",
     "2026-06-26"
    ],
-   "freq_per_week": 21.7,
+   "freq_per_week": 21.3,
    "stores_worked": [
     "千葉本店"
    ]
@@ -634,19 +634,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5bee36833fd1a451b806edf0af096f1526f04dd1-1128x1442.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/05zTXaU",
    "slug": "umeda",
-   "total_days": 48,
+   "total_days": 47,
    "avg_hours": 7.1,
    "weekday_dist": [
     7,
     5,
     3,
     0,
-    17,
+    16,
     16,
     0
    ],
    "monthly": {
-    "2025-12": 4,
+    "2025-12": 3,
     "2026-01": 10,
     "2026-02": 10,
     "2026-03": 3,
@@ -666,7 +666,7 @@
     "2026-06-26",
     "2026-06-27"
    ],
-   "freq_per_week": 9.6,
+   "freq_per_week": 9.4,
    "stores_worked": [
     "西葛西店"
    ]
@@ -682,19 +682,18 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/ccda4df4db8f054af5d4c2e19f4950d81d5a830f-1108x1478.jpg?w=400&h=600&fit=crop",
    "line_url": "https://page.line.me/531aukih",
    "slug": "oshima",
-   "total_days": 47,
+   "total_days": 46,
    "avg_hours": 6.9,
    "weekday_dist": [
     15,
     3,
     9,
     6,
-    11,
+    10,
     2,
     1
    ],
    "monthly": {
-    "2025-12": 1,
     "2026-01": 13,
     "2026-02": 11,
     "2026-03": 12,
@@ -714,7 +713,7 @@
     "2026-06-17",
     "2026-06-29"
    ],
-   "freq_per_week": 4.1,
+   "freq_per_week": 4.0,
    "stores_worked": [
     "新橋店"
    ]
@@ -771,7 +770,7 @@
    "id": "4aff54c4-8b5f-4198-b7ba-14103a8c1e3b",
    "name": "瀬名 -Sena-",
    "store": "新橋店",
-   "new": true,
+   "new": false,
    "english": null,
    "enroll_date": "2026-04-02",
    "description": "【艶やかで高い技術力を兼ね備えたプロフェッショナル】\n目を奪われるような洗練された美しさと、どこか惹き込まれる大人の色気\n落ち着いた佇まいの中に優しさを感じさせる、魅力あふれるセラピスト\nこれまでに培ってきた豊富な経験を活かし、身体の状態を見極めた的確な施術で深い癒しへと導きます。\n繊細さと力強さを兼ね備えた手技は、技術力重視の方にもきっとご満足いただけるはずです。\n美しいルックス、スタイル、そして確かな技術。\n癒しと心地よさを求める方に、ぜひ一度体感していただきたいです。",
@@ -824,7 +823,7 @@
    "line_url": null,
    "slug": "sakurai2",
    "total_days": 20,
-   "avg_hours": 7.3,
+   "avg_hours": 7.2,
    "weekday_dist": [
     4,
     3,
@@ -866,23 +865,22 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/88450e309c392dab626be51f1d79e1f7df0a88e9-877x1477.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "tsuchiya",
-   "total_days": 19,
-   "avg_hours": 5.3,
+   "total_days": 20,
+   "avg_hours": 5.2,
    "weekday_dist": [
     6,
     4,
     2,
-    2,
+    3,
     4,
     1,
     0
    ],
    "monthly": {
     "2026-05": 10,
-    "2026-06": 9
+    "2026-06": 10
    },
    "recent_dates": [
-    "2026-05-29",
     "2026-06-01",
     "2026-06-03",
     "2026-06-05",
@@ -891,9 +889,10 @@
     "2026-06-18",
     "2026-06-19",
     "2026-06-23",
+    "2026-06-25",
     "2026-06-30"
    ],
-   "freq_per_week": 4.2,
+   "freq_per_week": 4.8,
    "stores_worked": [
     "千葉本店"
    ]
@@ -936,8 +935,8 @@
    ],
    "freq_per_week": 3.5,
    "stores_worked": [
-    "西葛西店",
-    "千葉本店"
+    "千葉本店",
+    "西葛西店"
    ]
   },
   {
@@ -1465,13 +1464,13 @@
    }
   ]
  },
- "total_schedules": 4011,
+ "total_schedules": 3988,
  "date_range": {
-  "from": "2025-12-26",
+  "from": "2025-12-27",
   "to": "2026-06-30"
  },
- "generated_at": "2026-06-24T07:07:14.064758+09:00",
- "today": "2026-06-24",
+ "generated_at": "2026-06-25T07:08:43.494314+09:00",
+ "today": "2026-06-25",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
