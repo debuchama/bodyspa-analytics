@@ -11,7 +11,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3585955d8b88f5f4e69bfc3b83d54fc111369346-2560x3412.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/2vf2Das",
    "slug": "shirakawa",
-   "total_days": 135,
+   "total_days": 134,
    "avg_hours": 8.2,
    "weekday_dist": [
     21,
@@ -19,11 +19,11 @@
     23,
     12,
     18,
-    21,
+    20,
     26
    ],
    "monthly": {
-    "2026-03": 15,
+    "2026-03": 14,
     "2026-04": 25,
     "2026-05": 25,
     "2026-06": 21,
@@ -43,7 +43,7 @@
     "2026-09-13",
     "2026-09-14"
    ],
-   "freq_per_week": 67.5,
+   "freq_per_week": 67.0,
    "stores_worked": [
     "新橋店"
    ]
@@ -203,7 +203,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5de250b225db8ebd912f98e8cd6286e2a30b2be3-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/03Vzi8p",
    "slug": "kashiwagi",
-   "total_days": 93,
+   "total_days": 92,
    "avg_hours": 7.9,
    "weekday_dist": [
     15,
@@ -211,11 +211,11 @@
     9,
     10,
     18,
-    16,
+    15,
     5
    ],
    "monthly": {
-    "2026-03": 10,
+    "2026-03": 9,
     "2026-04": 18,
     "2026-05": 19,
     "2026-06": 15,
@@ -235,7 +235,7 @@
     "2026-09-12",
     "2026-09-15"
    ],
-   "freq_per_week": 22.4,
+   "freq_per_week": 22.2,
    "stores_worked": [
     "西葛西店"
    ]
@@ -395,19 +395,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/2aac0732ab02cd23da126dac6c34951824511df2-1041x1572.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "futaba2",
-   "total_days": 71,
-   "avg_hours": 6.7,
+   "total_days": 70,
+   "avg_hours": 6.8,
    "weekday_dist": [
     13,
     12,
     11,
     12,
     13,
-    9,
+    8,
     1
    ],
    "monthly": {
-    "2026-03": 7,
+    "2026-03": 6,
     "2026-04": 13,
     "2026-05": 9,
     "2026-06": 9,
@@ -427,7 +427,7 @@
     "2026-09-11",
     "2026-09-14"
    ],
-   "freq_per_week": 23.7,
+   "freq_per_week": 23.3,
    "stores_worked": [
     "千葉本店"
    ]
@@ -540,7 +540,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/56c90590dcc26c8cab812f04e2cdf009aab65b25-1117x1467.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "yumeno",
-   "total_days": 62,
+   "total_days": 61,
    "avg_hours": 7.0,
    "weekday_dist": [
     8,
@@ -548,11 +548,11 @@
     10,
     7,
     13,
-    6,
+    5,
     8
    ],
    "monthly": {
-    "2026-03": 7,
+    "2026-03": 6,
     "2026-04": 17,
     "2026-05": 12,
     "2026-06": 10,
@@ -572,55 +572,7 @@
     "2026-09-14",
     "2026-09-15"
    ],
-   "freq_per_week": 16.7,
-   "stores_worked": [
-    "千葉本店"
-   ]
-  },
-  {
-   "id": "c9daa4a6-904a-4907-8a40-80c324e12557",
-   "name": "森下 -Morishita-",
-   "store": "千葉本店",
-   "new": false,
-   "english": null,
-   "enroll_date": "2023-09-19",
-   "description": "人気急上昇！！店長オススメ太鼓判\n素朴な美人SSS級セラピストをお探しな貴方この娘しか\nございません！！\nスタイル抜群なうえに性格はとても明るく優しいキャラ\n初心で少し緊張しいな彼女はとてもキュートで\nたまに魅せる困った表情や、はにかむその笑顔は思わず\nキュンキュ～ンでございます！！\n未経験セラピストではございますが\n才能と期待がいっぱいいっぱいでございます！！",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/761d2ef2f8ea094b83dca00866ea1927ad226ceb-640x853.webp?w=400&h=600&fit=crop",
-   "line_url": "https://lin.ee/o6PkDwI",
-   "slug": "mori",
-   "total_days": 52,
-   "avg_hours": 6.6,
-   "weekday_dist": [
-    10,
-    3,
-    11,
-    8,
-    6,
-    10,
-    4
-   ],
-   "monthly": {
-    "2026-03": 6,
-    "2026-04": 6,
-    "2026-05": 8,
-    "2026-06": 12,
-    "2026-07": 7,
-    "2026-08": 9,
-    "2026-09": 4
-   },
-   "recent_dates": [
-    "2026-08-12",
-    "2026-08-19",
-    "2026-08-23",
-    "2026-08-24",
-    "2026-08-26",
-    "2026-08-28",
-    "2026-09-03",
-    "2026-09-09",
-    "2026-09-10",
-    "2026-09-15"
-   ],
-   "freq_per_week": 10.7,
+   "freq_per_week": 16.4,
    "stores_worked": [
     "千葉本店"
    ]
@@ -671,6 +623,54 @@
    "stores_worked": [
     "西葛西店",
     "新橋店"
+   ]
+  },
+  {
+   "id": "c9daa4a6-904a-4907-8a40-80c324e12557",
+   "name": "森下 -Morishita-",
+   "store": "千葉本店",
+   "new": false,
+   "english": null,
+   "enroll_date": "2023-09-19",
+   "description": "人気急上昇！！店長オススメ太鼓判\n素朴な美人SSS級セラピストをお探しな貴方この娘しか\nございません！！\nスタイル抜群なうえに性格はとても明るく優しいキャラ\n初心で少し緊張しいな彼女はとてもキュートで\nたまに魅せる困った表情や、はにかむその笑顔は思わず\nキュンキュ～ンでございます！！\n未経験セラピストではございますが\n才能と期待がいっぱいいっぱいでございます！！",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/761d2ef2f8ea094b83dca00866ea1927ad226ceb-640x853.webp?w=400&h=600&fit=crop",
+   "line_url": "https://lin.ee/o6PkDwI",
+   "slug": "mori",
+   "total_days": 51,
+   "avg_hours": 6.6,
+   "weekday_dist": [
+    10,
+    3,
+    11,
+    8,
+    6,
+    9,
+    4
+   ],
+   "monthly": {
+    "2026-03": 5,
+    "2026-04": 6,
+    "2026-05": 8,
+    "2026-06": 12,
+    "2026-07": 7,
+    "2026-08": 9,
+    "2026-09": 4
+   },
+   "recent_dates": [
+    "2026-08-12",
+    "2026-08-19",
+    "2026-08-23",
+    "2026-08-24",
+    "2026-08-26",
+    "2026-08-28",
+    "2026-09-03",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-15"
+   ],
+   "freq_per_week": 10.5,
+   "stores_worked": [
+    "千葉本店"
    ]
   },
   {
@@ -825,7 +825,7 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/ebb9e2b71cf7b5f6288128bd1780ec2512ae5969-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/zw02mWK",
    "slug": "sugishita",
-   "total_days": 20,
+   "total_days": 19,
    "avg_hours": 6.4,
    "weekday_dist": [
     0,
@@ -833,11 +833,11 @@
     1,
     0,
     2,
-    17,
+    16,
     0
    ],
    "monthly": {
-    "2026-03": 3,
+    "2026-03": 2,
     "2026-04": 4,
     "2026-05": 4,
     "2026-06": 3,
@@ -1411,13 +1411,13 @@
    }
   ]
  },
- "total_schedules": 4013,
+ "total_schedules": 3994,
  "date_range": {
-  "from": "2026-03-14",
+  "from": "2026-03-15",
   "to": "2026-09-15"
  },
- "generated_at": "2026-09-10T07:51:01.192335+09:00",
- "today": "2026-09-10",
+ "generated_at": "2026-09-11T07:51:49.303461+09:00",
+ "today": "2026-09-11",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
