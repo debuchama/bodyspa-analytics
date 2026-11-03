@@ -484,22 +484,14 @@
    "enrollDate": "2023-03-04",
    "image": {
     "asset": {
-     "_id": "image-5de250b225db8ebd912f98e8cd6286e2a30b2be3-1108x1477-jpg",
-     "url": "https://cdn.sanity.io/images/64ec3zln/production/5de250b225db8ebd912f98e8cd6286e2a30b2be3-1108x1477.jpg"
+     "_id": "image-fd2c0746bef519c0957f4304136b2a268806afb6-1108x1477-webp",
+     "url": "https://cdn.sanity.io/images/64ec3zln/production/fd2c0746bef519c0957f4304136b2a268806afb6-1108x1477.webp"
     }
    },
    "lineUrl": "https://lin.ee/03Vzi8p",
    "name": "柏木 -Kashiwagi-",
    "newTherapist": false,
    "profileImageItems": [
-    {
-     "image": {
-      "asset": {
-       "_id": "image-5de250b225db8ebd912f98e8cd6286e2a30b2be3-1108x1477-jpg",
-       "url": "https://cdn.sanity.io/images/64ec3zln/production/5de250b225db8ebd912f98e8cd6286e2a30b2be3-1108x1477.jpg"
-      }
-     }
-    },
     {
      "image": {
       "asset": {
@@ -1993,258 +1985,6 @@
   }
  ],
  "schedules": [
-  {
-   "from": "2026-05-06T10:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "ad2e6381-3aca-4748-80c1-35d452bc4c1c",
-    "name": "佐山 -Sayama-"
-   },
-   "to": "2026-05-06T18:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T10:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "76d6fa9c-5640-4ea3-87f6-016f160cc104",
-    "name": "中野 -Nakano-"
-   },
-   "to": "2026-05-06T18:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T10:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "9b4241ed-c11a-4478-b9f7-1b0a7f162105",
-    "name": "川奈 -Kawana-"
-   },
-   "to": "2026-05-06T19:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T10:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "1e4a3378-3caa-49d2-9b64-ac6d24aba4f5",
-    "name": "成瀬 -Naruse-"
-   },
-   "to": "2026-05-06T18:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T11:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "4bc64ec8-85a3-4ffb-baa6-275384657dcc",
-    "name": "梅宮 -Umemiya-"
-   },
-   "to": "2026-05-06T17:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T11:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "d47170a4-fdbf-4ee8-aea3-863ea41d5d18",
-    "name": "戸田 -Toda-"
-   },
-   "to": "2026-05-06T18:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T12:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "6a5f5f1a-e30b-48bd-8676-1d6b8ad8bd69",
-    "name": "大島 -Oshima-"
-   },
-   "to": "2026-05-06T17:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T12:00:00+09:00",
-   "store": {
-    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
-    "name": "西葛西店 -Nishikasai-"
-   },
-   "therapist": {
-    "_id": "ce822572-973b-43ca-98a1-89117645c404",
-    "name": "藤原 -Fujiwara-"
-   },
-   "to": "2026-05-06T18:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T12:00:00+09:00",
-   "store": {
-    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
-    "name": "西葛西店 -Nishikasai-"
-   },
-   "therapist": {
-    "_id": "90b4747f-7080-47d8-b92a-73ead795aeae",
-    "name": "松村 -Matsumura-"
-   },
-   "to": "2026-05-06T18:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T12:00:00+09:00",
-   "store": {
-    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
-    "name": "西葛西店 -Nishikasai-"
-   },
-   "therapist": {
-    "_id": "ec7c3d0e-9d56-41cc-abfd-759cedff033f",
-    "name": "早坂 -Hayasaka-"
-   },
-   "to": "2026-05-06T17:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T12:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "955d194b-4534-45ce-bcf1-a76d1d397bfa",
-    "name": "西村 -Nishimura-"
-   },
-   "to": "2026-05-06T17:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T15:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "fe7f2d5f-910c-440a-8acc-5d20a1268206",
-    "name": "吉高 -Yoshitaka-"
-   },
-   "to": "2026-05-06T22:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T15:00:00+09:00",
-   "store": {
-    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
-    "name": "西葛西店 -Nishikasai-"
-   },
-   "therapist": {
-    "_id": "df4f5655-5097-46db-9439-f029aad1e8a5",
-    "name": "光井 -Mitsui-"
-   },
-   "to": "2026-05-06T22:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T15:00:00+09:00",
-   "store": {
-    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
-    "name": "西葛西店 -Nishikasai-"
-   },
-   "therapist": {
-    "_id": "81fa9b05-2d8c-4b8f-9680-8e68e1abd3b8",
-    "name": "宇野 -Uno-"
-   },
-   "to": "2026-05-06T20:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T16:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "4d580a91-8013-4c8c-a525-bb2a532d519f",
-    "name": "久保 -Kubo-"
-   },
-   "to": "2026-05-06T22:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T16:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "4aff54c4-8b5f-4198-b7ba-14103a8c1e3b",
-    "name": "瀬名 -Sena-"
-   },
-   "to": "2026-05-06T23:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T17:00:00+09:00",
-   "store": {
-    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
-    "name": "西葛西店 -Nishikasai-"
-   },
-   "therapist": {
-    "_id": "692d5328-3690-4b23-961c-f13a33eb483a",
-    "name": "岡 -Oka-"
-   },
-   "to": "2026-05-06T22:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T18:00:00+09:00",
-   "store": {
-    "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
-    "name": "新橋店 -Shinbashi-"
-   },
-   "therapist": {
-    "_id": "8f37e06e-57aa-4dff-9b0f-43354e75e0a8",
-    "name": "橘 -Tachibana-"
-   },
-   "to": "2026-05-06T23:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T19:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "6e77c384-f0f3-43d7-8513-b9133b511831",
-    "name": "平野 -Hirano-"
-   },
-   "to": "2026-05-07T05:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T20:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "1096caa5-0d04-4dc7-b605-1707124067a4",
-    "name": "飛鳥 -Asuka-"
-   },
-   "to": "2026-05-07T05:00:00+09:00"
-  },
-  {
-   "from": "2026-05-06T21:00:00+09:00",
-   "store": {
-    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
-    "name": "千葉本店 -Chiba-"
-   },
-   "therapist": {
-    "_id": "39c97c6e-7160-4013-a7fa-f34f7c693689",
-    "name": "百瀬 -Momose-"
-   },
-   "to": "2026-05-07T04:00:00+09:00"
-  },
   {
    "from": "2026-05-07T10:00:00+09:00",
    "store": {
@@ -49112,6 +48852,18 @@
     "name": "千葉本店 -Chiba-"
    },
    "therapist": {
+    "_id": "ad2a2318-5667-425f-80d3-aea26359cea9",
+    "name": "玉森 -Tamamori-"
+   },
+   "to": "2026-11-03T16:00:00+09:00"
+  },
+  {
+   "from": "2026-11-03T10:00:00+09:00",
+   "store": {
+    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
+    "name": "千葉本店 -Chiba-"
+   },
+   "therapist": {
     "_id": "ad2e6381-3aca-4748-80c1-35d452bc4c1c",
     "name": "佐山 -Sayama-"
    },
@@ -49298,6 +49050,30 @@
    "to": "2026-11-04T02:00:00+09:00"
   },
   {
+   "from": "2026-11-03T18:00:00+09:00",
+   "store": {
+    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
+    "name": "西葛西店 -Nishikasai-"
+   },
+   "therapist": {
+    "_id": "df4f5655-5097-46db-9439-f029aad1e8a5",
+    "name": "光井 -Mitsui-"
+   },
+   "to": "2026-11-04T05:00:00+09:00"
+  },
+  {
+   "from": "2026-11-03T19:00:00+09:00",
+   "store": {
+    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
+    "name": "千葉本店 -Chiba-"
+   },
+   "therapist": {
+    "_id": "6e77c384-f0f3-43d7-8513-b9133b511831",
+    "name": "平野 -Hirano-"
+   },
+   "to": "2026-11-04T02:00:00+09:00"
+  },
+  {
    "from": "2026-11-03T19:00:00+09:00",
    "store": {
     "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
@@ -49308,6 +49084,18 @@
     "name": "宇野 -Uno-"
    },
    "to": "2026-11-03T23:00:00+09:00"
+  },
+  {
+   "from": "2026-11-03T21:00:00+09:00",
+   "store": {
+    "_id": "f7195559-43ba-42fc-959d-2033f72b0b2b",
+    "name": "千葉本店 -Chiba-"
+   },
+   "therapist": {
+    "_id": "39c97c6e-7160-4013-a7fa-f34f7c693689",
+    "name": "百瀬 -Momose-"
+   },
+   "to": "2026-11-04T02:00:00+09:00"
   },
   {
    "from": "2026-11-04T10:30:00+09:00",
@@ -50138,6 +49926,18 @@
    "to": "2026-11-07T21:00:00+09:00"
   },
   {
+   "from": "2026-11-07T14:00:00+09:00",
+   "store": {
+    "_id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
+    "name": "西葛西店 -Nishikasai-"
+   },
+   "therapist": {
+    "_id": "5d62c55c-720d-4f8f-8cf4-4c9fff4d528f",
+    "name": "黒木 -Kuroki-"
+   },
+   "to": "2026-11-07T20:00:00+09:00"
+  },
+  {
    "from": "2026-11-07T16:30:00+09:00",
    "store": {
     "_id": "ec678b80-b776-402c-a48c-986b5aef3286",
@@ -50840,5 +50640,5 @@
    "name": "千葉本店 -Chiba-"
   }
  ],
- "fetched_at": "2026-11-02T09:03:31.953127+09:00"
+ "fetched_at": "2026-11-03T11:43:02.378647+09:00"
 }
