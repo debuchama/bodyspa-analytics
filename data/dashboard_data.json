@@ -11,19 +11,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/3585955d8b88f5f4e69bfc3b83d54fc111369346-2560x3412.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/2vf2Das",
    "slug": "shirakawa",
-   "total_days": 137,
+   "total_days": 136,
    "avg_hours": 7.7,
    "weekday_dist": [
     17,
     13,
-    24,
+    23,
     10,
     25,
     23,
     25
    ],
    "monthly": {
-    "2026-05": 10,
+    "2026-05": 9,
     "2026-06": 21,
     "2026-07": 19,
     "2026-08": 21,
@@ -43,7 +43,7 @@
     "2026-11-29",
     "2026-11-30"
    ],
-   "freq_per_week": 79.9,
+   "freq_per_week": 79.3,
    "stores_worked": [
     "新橋店"
    ]
@@ -59,11 +59,11 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/5b528da5eb53d124a39d99cc082cb770bd39e935-1108x1478.jpg?w=400&h=600&fit=crop",
    "line_url": null,
    "slug": "momo",
-   "total_days": 132,
+   "total_days": 133,
    "avg_hours": 7.7,
    "weekday_dist": [
     19,
-    17,
+    18,
     19,
     16,
     14,
@@ -77,10 +77,9 @@
     "2026-08": 22,
     "2026-09": 20,
     "2026-10": 26,
-    "2026-11": 15
+    "2026-11": 16
    },
    "recent_dates": [
-    "2026-11-07",
     "2026-11-08",
     "2026-11-09",
     "2026-11-10",
@@ -89,9 +88,10 @@
     "2026-11-13",
     "2026-11-14",
     "2026-11-15",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-17"
    ],
-   "freq_per_week": 102.7,
+   "freq_per_week": 103.4,
    "stores_worked": [
     "千葉本店"
    ]
@@ -107,19 +107,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/b10018fcbe6222deb601c45b50a9c0413f30c836-962x1704.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/gmAO0hZ",
    "slug": "miura",
-   "total_days": 106,
-   "avg_hours": 8.2,
+   "total_days": 105,
+   "avg_hours": 8.3,
    "weekday_dist": [
     19,
     20,
-    14,
+    13,
     18,
     11,
     21,
     3
    ],
    "monthly": {
-    "2026-05": 7,
+    "2026-05": 6,
     "2026-06": 16,
     "2026-07": 17,
     "2026-08": 15,
@@ -139,7 +139,7 @@
     "2026-11-28",
     "2026-11-30"
    ],
-   "freq_per_week": 46.4,
+   "freq_per_week": 45.9,
    "stores_worked": [
     "新橋店"
    ]
@@ -251,19 +251,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/40b7c434aeb420771b51c595a6f788735779e1a7-1108x1477.jpg?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/l16IZaL",
    "slug": "Aozora",
-   "total_days": 83,
+   "total_days": 82,
    "avg_hours": 9.7,
    "weekday_dist": [
     6,
     14,
-    15,
+    14,
     15,
     4,
     13,
     16
    ],
    "monthly": {
-    "2026-05": 9,
+    "2026-05": 8,
     "2026-06": 13,
     "2026-07": 15,
     "2026-08": 13,
@@ -283,7 +283,7 @@
     "2026-11-22",
     "2026-11-26"
    ],
-   "freq_per_week": 25.3,
+   "freq_per_week": 25.0,
    "stores_worked": [
     "千葉本店"
    ]
@@ -434,54 +434,6 @@
    ]
   },
   {
-   "id": "417bf960-dc8d-460f-ba62-1a7d1efaf726",
-   "name": "柏木 -Kashiwagi-",
-   "store": "西葛西店",
-   "new": false,
-   "english": null,
-   "enroll_date": "2023-03-04",
-   "description": "【純白のパーフェクト美女】\n丁寧かつ超濃厚な施術で爆発的人気を誇る美女セラピスト！\n全てのレベルが高い、北海道出身の色白美女でございます。\n非常に高いリピート率もそのはず\n癒しを探求し今もなお日々進化する彼女\n習得した様々な手技により、オプションの組み合わせであなただけの最高の施術を受けることができるでしょう。\nひとつひとつの行動がお客様への癒しを意識しております。\nお早めのご予約推奨です！！",
-   "image": "https://cdn.sanity.io/images/64ec3zln/production/fd2c0746bef519c0957f4304136b2a268806afb6-1108x1477.webp?w=400&h=600&fit=crop",
-   "line_url": "https://lin.ee/03Vzi8p",
-   "slug": "kashiwagi",
-   "total_days": 67,
-   "avg_hours": 7.2,
-   "weekday_dist": [
-    9,
-    10,
-    9,
-    2,
-    11,
-    16,
-    10
-   ],
-   "monthly": {
-    "2026-05": 7,
-    "2026-06": 15,
-    "2026-07": 16,
-    "2026-08": 12,
-    "2026-09": 6,
-    "2026-10": 5,
-    "2026-11": 6
-   },
-   "recent_dates": [
-    "2026-10-10",
-    "2026-10-24",
-    "2026-10-25",
-    "2026-10-31",
-    "2026-11-01",
-    "2026-11-08",
-    "2026-11-15",
-    "2026-11-18",
-    "2026-11-22",
-    "2026-11-29"
-   ],
-   "freq_per_week": 9.4,
-   "stores_worked": [
-    "西葛西店"
-   ]
-  },
-  {
    "id": "e432ac2f-8091-4d70-820b-ce223d5f86af",
    "name": "大塚 -Otsuka-",
    "store": "新橋店",
@@ -527,6 +479,54 @@
    "freq_per_week": 15.6,
    "stores_worked": [
     "新橋店",
+    "西葛西店"
+   ]
+  },
+  {
+   "id": "417bf960-dc8d-460f-ba62-1a7d1efaf726",
+   "name": "柏木 -Kashiwagi-",
+   "store": "西葛西店",
+   "new": false,
+   "english": null,
+   "enroll_date": "2023-03-04",
+   "description": "【純白のパーフェクト美女】\n丁寧かつ超濃厚な施術で爆発的人気を誇る美女セラピスト！\n全てのレベルが高い、北海道出身の色白美女でございます。\n非常に高いリピート率もそのはず\n癒しを探求し今もなお日々進化する彼女\n習得した様々な手技により、オプションの組み合わせであなただけの最高の施術を受けることができるでしょう。\nひとつひとつの行動がお客様への癒しを意識しております。\nお早めのご予約推奨です！！",
+   "image": "https://cdn.sanity.io/images/64ec3zln/production/fd2c0746bef519c0957f4304136b2a268806afb6-1108x1477.webp?w=400&h=600&fit=crop",
+   "line_url": "https://lin.ee/03Vzi8p",
+   "slug": "kashiwagi",
+   "total_days": 66,
+   "avg_hours": 7.2,
+   "weekday_dist": [
+    9,
+    10,
+    8,
+    2,
+    11,
+    16,
+    10
+   ],
+   "monthly": {
+    "2026-05": 6,
+    "2026-06": 15,
+    "2026-07": 16,
+    "2026-08": 12,
+    "2026-09": 6,
+    "2026-10": 5,
+    "2026-11": 6
+   },
+   "recent_dates": [
+    "2026-10-10",
+    "2026-10-24",
+    "2026-10-25",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-08",
+    "2026-11-15",
+    "2026-11-18",
+    "2026-11-22",
+    "2026-11-29"
+   ],
+   "freq_per_week": 9.2,
+   "stores_worked": [
     "西葛西店"
    ]
   },
@@ -637,19 +637,19 @@
    "image": "https://cdn.sanity.io/images/64ec3zln/production/761d2ef2f8ea094b83dca00866ea1927ad226ceb-640x853.webp?w=400&h=600&fit=crop",
    "line_url": "https://lin.ee/o6PkDwI",
    "slug": "mori",
-   "total_days": 59,
+   "total_days": 58,
    "avg_hours": 6.5,
    "weekday_dist": [
     11,
     8,
-    14,
+    13,
     10,
     8,
     5,
     3
    ],
    "monthly": {
-    "2026-05": 4,
+    "2026-05": 3,
     "2026-06": 12,
     "2026-07": 7,
     "2026-08": 9,
@@ -669,7 +669,7 @@
     "2026-11-27",
     "2026-11-30"
    ],
-   "freq_per_week": 15.9,
+   "freq_per_week": 15.6,
    "stores_worked": [
     "千葉本店"
    ]
@@ -961,13 +961,13 @@
   }
  ],
  "week_apr18": {},
- "total_schedules": 4186,
+ "total_schedules": 4168,
  "date_range": {
-  "from": "2026-05-20",
+  "from": "2026-05-21",
   "to": "2026-11-30"
  },
- "generated_at": "2026-11-16T09:33:11.242475+09:00",
- "today": "2026-11-16",
+ "generated_at": "2026-11-17T12:18:43.979923+09:00",
+ "today": "2026-11-17",
  "stores": [
   {
    "id": "78e6e5ea-a294-45e3-a547-0ed29c6922cc",
